@@ -1,0 +1,42 @@
+
+body{direction: rtl;
+background-color: #038B78;
+color:rgb(41, 34, 34);
+font-family: Vazirmatn UI FD NL;
+}
+h1{font-size: 50px;
+text-align: center;}
+address{background-color:rgb(17, 187, 94);
+padding: 25px;}
+.menu{padding: 50px;
+background-color: #9FD9CC;
+font-size: x-large;
+}
+p{font-size: 27px;
+text-align: center;}
+a:link{text-decoration: none;
+}
+a:hover{color: #000;}
+#img1{float: left;
+border-style: solid;color: chartreuse;
+}
+#img2{float: right;
+border-style: solid;color: chartreuse;
+}
+.slider::after{content: "";
+    clear: both;
+    display: table;}
+#services{background-color: #9FD9CC;
+margin: 45px;
+padding: 45px;}
+#aboutUs{font-size: large;
+padding: 150px;
+}
+#contactUs{font-size: larger;
+text-align: center;padding: 50px;
+background-color:#9FD9CC;
+}
+footer{text-align: center;
+font-size: large;
+background-color: #017148;
+padding: 25px;}
